@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 26 16:08:04 2025
-
-@author: reddy
-"""
-
 def simple_chatbot():
     """
     A simple rule-based chatbot that responds to predefined inputs.
